@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire" "5.1.0"
+github "AliSoftware/OHHTTPStubs" "9.0.0"
+github "onevcat/Kingfisher" "5.13.4"
+github "uber/ios-snapshot-test-case" "6.2.0"
